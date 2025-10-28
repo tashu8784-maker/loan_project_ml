@@ -1,5 +1,5 @@
-**🧠 Loan Approval Prediction using Machine Learning 💼
-**
+🧠 Loan Approval Prediction using Machine Learning 💼
+
 I recently completed an exciting machine learning project — Loan Approval Prediction — aimed at building a predictive model to determine whether a loan application should be approved or rejected based on applicant data.
 
 This project involved a complete end-to-end data science workflow:
